@@ -7,9 +7,9 @@ KlearSpeech is a modern, interactive web application designed to guide you on yo
 Whether you're working on articulation, breath control, or speaking pace, KlearSpeech is your dedicated companion, available anytime, anywhere.
 
 <div align="center">
-  <img width="350" height="300" alt="Image" src="https://github.com/user-attachments/assets/27d9b1c8-e958-4dd9-9dab-928f4d61b4a1" />
-  <img width="350" height="300" alt="Image" src="https://github.com/user-attachments/assets/cbaa0e07-dcaa-42bb-8d28-369803e4c014" />
-  <img width="200" height="300" alt="Image" src="https://github.com/user-attachments/assets/57df598b-bfe1-4038-8d89-5468ac12ba0d" />
+  <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/27d9b1c8-e958-4dd9-9dab-928f4d61b4a1" />
+  <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/cbaa0e07-dcaa-42bb-8d28-369803e4c014" />
+  <img width="150" height="200" alt="Image" src="https://github.com/user-attachments/assets/57df598b-bfe1-4038-8d89-5468ac12ba0d" />
   
 </div>
 

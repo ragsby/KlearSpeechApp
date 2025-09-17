@@ -1,7 +1,18 @@
+
+
+
 **KlearSpeech: Your AI-Powered Speech Therapy Companion 🗣️✨** 
 
 KlearSpeech is a modern, interactive web application designed to guide you on your journey to clearer, more confident speech. It combines a structured, gamified exercise program with a cutting-edge AI Vocal Pace Analyzer to provide a comprehensive and motivational speech therapy experience.
 Whether you're working on articulation, breath control, or speaking pace, KlearSpeech is your dedicated companion, available anytime, anywhere.
+
+<div align="center">
+  <img width="350" height="300" alt="Image" src="https://github.com/user-attachments/assets/27d9b1c8-e958-4dd9-9dab-928f4d61b4a1" />
+  <img width="350" height="300" alt="Image" src="https://github.com/user-attachments/assets/cbaa0e07-dcaa-42bb-8d28-369803e4c014" />
+  <img width="200" height="300" alt="Image" src="https://github.com/user-attachments/assets/57df598b-bfe1-4038-8d89-5468ac12ba0d" />
+  
+</div>
+
 
 
 
@@ -17,7 +28,7 @@ Whether you're working on articulation, breath control, or speaking pace, KlearS
 
 📖 **Guided Story Practice:** Read from a library of stories in multiple languages (English and Hindi) to practice maintaining a consistent and clear vocal pace.
 
-**motivational and personalized:** The app greets you by name and provides a new motivational quote every day to keep you inspired.
+**Motivational and Personalized:** The app greets you by name and provides a new motivational quote every day to keep you inspired.
 
 
 
@@ -33,9 +44,7 @@ Record: Start the timer and begin speaking. Our engine transcribes your speech w
 Get Your Results: Once you stop, the app instantly analyzes your speech and presents a detailed report.
 
 
-**🛠️ Technology Stack**
-Frontend: React, TypeScript, Tailwind CSS
-
-AI Analysis & Coaching: Google Gemini API
-
+**🛠️ Technology Stack** \
+Frontend: React, TypeScript, Tailwind CSS \
+AI Analysis & Coaching: Google Gemini API \
 Icons: Lucide React

@@ -1,0 +1,7 @@
+{
+  "name": "KlearSpeech",
+  "description": "Speech app with mixpanel analytics with larger story font size",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

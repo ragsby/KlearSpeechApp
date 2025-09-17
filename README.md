@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+**KlearSpeech: Your AI-Powered Speech Therapy Companion 🗣️✨** 
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1xBNN89l_hQ2TceHpvjiybGZmCXntyuSS
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+KlearSpeech is a modern, interactive web application designed to guide you on your journey to clearer, more confident speech. It combines a structured, gamified exercise program with a cutting-edge AI Vocal Pace Analyzer to provide a comprehensive and motivational speech therapy experience.
+Whether you're working on articulation, breath control, or speaking pace, KlearSpeech is your dedicated companion, available anytime, anywhere.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+🌟 **Key Features**
+
+**Structured 8-Level Program:** Progress through a carefully designed curriculum that builds foundational skills and advances to more complex exercises.
+
+🤖 **AI Vocal Pace Analyzer:** Get real-time transcription and in-depth analysis of your speaking rate, powered by Deepgram and Google's Gemini API. Receive personalized coaching and feedback.
+
+📈 **Comprehensive Progress Tracking:** Stay motivated with a visual progress calendar, current & best streak counters, and detailed analytics reports.
+
+🌟 **Interactive and modern:** UI/UX Engage with built-in timers, checklists, recording tools, and visual gauges that make practice effective and enjoyable.
+
+📖 **Guided Story Practice:** Read from a library of stories in multiple languages (English and Hindi) to practice maintaining a consistent and clear vocal pace.
+
+**motivational and personalized:** The app greets you by name and provides a new motivational quote every day to keep you inspired.
+
+
+
+**🤖 Meet Your AI Vocal Pace Analyzer**
+One of the most powerful features of KlearSpeech is the Vocal Pace Analyzer, designed to help you master the rhythm and speed of your speech.
+
+
+**How It Works:**
+Choose Your Mode: Select "Open Reading" to speak freely on any topic, or "Story Practice" to read from our library of curated stories.
+
+Record: Start the timer and begin speaking. Our engine transcribes your speech with incredible speed and accuracy in real-time.
+
+Get Your Results: Once you stop, the app instantly analyzes your speech and presents a detailed report.
+
+
+**🛠️ Technology Stack**
+Frontend: React, TypeScript, Tailwind CSS
+
+AI Analysis & Coaching: Google Gemini API
+
+Icons: Lucide React
